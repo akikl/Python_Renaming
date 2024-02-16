@@ -1,5 +1,5 @@
 # Python_Renaming
-This project involves the development of a Python automation script to streamline the process of renaming and organizing a large collection of image and document files. The script automatically creates individual folders for each file type and renames files based on user-defined document types.
+Developed a Python script for efficient renaming and organization of diverse file types. The automation streamlines the process, reduces manual effort, and minimizes human error. Utilizing Python and OS libraries, renamed files and created individual folders for each file in less time.
 
 
 
